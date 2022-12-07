@@ -8,11 +8,15 @@ type ProjectType = {
 const Project = (props: ProjectType) => {
     return (
         <div className={styles.project}>
-            <div className={styles.projectImage}>
+            <div className={styles.imageContainer}>
                 <a href={''}>Watch</a>
             </div>
-            <h4>{props.projectName}</h4>
-            <p>{props.description}</p>
+            <div className={styles.projectName}>
+                <h4>{props.projectName}</h4>
+            </div>
+            <div className={styles.description}>
+                <p>{props.description}</p>
+            </div>
         </div>
     );
 };
