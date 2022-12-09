@@ -5,11 +5,15 @@
 }
 
 .projectsContainer {
+    display: block;
+    min-height: 100vh;
     flex-direction: column;
     justify-content: flex-start;
 }
+
 .title {
     background-color: #dad3d3;
+    text-align: center;
 }
 
 .projects {
@@ -18,4 +22,6 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    padding: 20px;
+    box-sizing: border-box;
 }

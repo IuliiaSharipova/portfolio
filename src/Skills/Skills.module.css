@@ -5,6 +5,7 @@
 }
 
 .skillsContainer {
+    min-height: 100vh;
     flex-direction: column;
     justify-content: flex-start;
 }
@@ -19,4 +20,6 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    padding: 20px;
+    box-sizing: border-box;
 }
