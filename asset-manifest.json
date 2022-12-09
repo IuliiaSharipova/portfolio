@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IuliiaSharipova/static/css/main.0437acf6.css",
+    "main.js": "/IuliiaSharipova/static/js/main.74402201.js",
+    "static/js/787.1ed0c42c.chunk.js": "/IuliiaSharipova/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/IuliiaSharipova/index.html",
+    "main.0437acf6.css.map": "/IuliiaSharipova/static/css/main.0437acf6.css.map",
+    "main.74402201.js.map": "/IuliiaSharipova/static/js/main.74402201.js.map",
+    "787.1ed0c42c.chunk.js.map": "/IuliiaSharipova/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0437acf6.css",
+    "static/js/main.74402201.js"
+  ]
+}
